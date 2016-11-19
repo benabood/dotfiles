@@ -1,0 +1,11 @@
+#CAEN
+Host bja
+	HostName login.engin.umich.edu
+	User benabood
+	Compression yes
+
+#GitHub
+Host github
+	HostName github.com
+	User git
+	IdentityFile ~/.ssh/github_rsa
